@@ -18,13 +18,26 @@ WEBSITES PURPOSE AND GOALS
 PURPOSE
 
 GOALS
-
+  1. Introduction to One punch man world
+  2. Give news updates on the manga and anime
+  3. Describing info about different heroes and villains
+  4. Showing how powerful characters in OPM are
+  5. Displaying user reviews based on current chapters in the manga
 MILESTONES
-
+  1. Cover updates on changes or redraws in the manga
+  2. Sign in and out
+  3. Add user reviews of star system 1 to 10 with small brief description on it
+  4. Display ranking level when clicking on hero or villain
+  5. Create an account
 METRICS
-
+  1.
+  2.
+  3.
+  4.
+  5.
 ANALYTICS
-
+  1.
+  2.
 WEBSITE CONTENT: TEXT AND IMAGES
   
   1. RESEARCH WORK
@@ -45,7 +58,7 @@ WEBSITE CONTENT: TEXT AND IMAGES
   5. FUNCTIONALITY
  
   6. TARGET AUDIENCE
- 
+    Age group is 16 to 30
  MOCKUP DESIGNS
  
   Mockup design 1
