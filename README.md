@@ -20,8 +20,11 @@
   ix. Sign in (Ability to sign in for review section and write brief descriptive review with a ranking)
   
  2. Similar Websites
+  
   i. https://onepunchman-2.weebly.com/
+  
   ii. https://100wordanime.blog/one-punch-man-series-review/
+  
   iii. https://nntheblog.com/wiki/one-punch-man/
   
 WEBSITES PURPOSE AND GOALS
@@ -37,6 +40,7 @@ GOALS
   3. Describing info about different heroes and villains
   4. Showing how powerful characters in OPM are
   5. Displaying user reviews based on current chapters in the manga
+
 MILESTONES
   
   1. Cover updates on changes or redraws in the manga
@@ -44,6 +48,7 @@ MILESTONES
   3. Add user reviews of star system 1 to 10 with small brief description on it
   4. Display ranking level when clicking on hero or villain
   5. Create an account
+
 METRICS
   
   1. How many people create an account
@@ -51,6 +56,7 @@ METRICS
   3. How much engagement there is on the reviews section
   4. How much engagement there is on news updates
   5. How many view the about section
+
 ANALYTICS
   
   1. Google Analytics: https://analytics.google.com/analytics/web/provision/#/provision/create
