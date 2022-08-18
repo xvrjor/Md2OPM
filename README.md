@@ -4,21 +4,22 @@
   ii. Heroes(Goes over majority of heroes in OPM with a description about them and their ranking)
   iii. Villains (Goes over villains in the series with description and ranking)
   iv. Other(Goes over brief overview of other characters important to the story and any additional relevant info)
-  v. Ranking System
-  vi. Story so far
-  vii. News and updates
-  viii. Reviews
-  ix. Sign in
+  v. Ranking System (Shows basic ranking system mostly in strength for heroes and villains; class ranking for heroes disaster level for villains)
+  vi. Story so far (Goes through course of events in the story; one section for manga and another for the anime)
+  vii. News and updates (Updated news on the series weekly)
+  viii. Reviews (User review system based on manga chapters rank 1-10)
+  ix. Sign in (Ability to sign in for review section and write brief descriptive review with a ranking)
   
  2. Similar Websites
-  i. 
-  ii. 
+  i. https://onepunchman-2.weebly.com/
+  ii. https://100wordanime.blog/one-punch-man-series-review/
+  iii. https://nntheblog.com/wiki/one-punch-man/
   
 WEBSITES PURPOSE AND GOALS
 
 PURPOSE
 
-  Give an understanding of the basics of the OPM world
+  Give an understanding of the basics of the OPM world and allow users to give review of chapter
 
 GOALS
   
@@ -49,23 +50,49 @@ ANALYTICS
 WEBSITE CONTENT: TEXT AND IMAGES
   
   1. RESEARCH WORK
-  2. TEXT TOOLS
-  3. IMAGES TOOLS
-  4. ACCESSIBILITY
-  5. TEXT TEMPLATES
-  
+    https://onepunchman.fandom.com/wiki/One-Punch_Man_Wiki
+    https://www.viz.com/shonenjump/chapters/one-punch-man?locale=en
+    
+
+  3. TEXT TOOLS
+    https://cooltext.com/
+    https://fonts.google.com/
+    https://app.grammarly.com/
+    
+  5. IMAGES TOOLS
+    https://burst.shopify.com/
+    https://icons8.com/icons
+    https://www.pinterest.com/pin/4081455903359421/?mt=login
+    https://wegotthiscovered.com/anime/how-strong-is-saitama-and-is-there-anyone-that-could-beat-him/
+    https://onepunchman.fandom.com/wiki/Genos?file=Genos+Profile.png
+    
+  6. ACCESSIBILITY
+     Keyboard accessible
+     Simplistic design for accessibility 
+     
+  7. TEXT TEMPLATES
+    " Strongest there is"
+    " One Punchhhhh"
+
  WEBSITE CONTENT: FUNDAMENTALS
   1. SITEMAP https://www.gloomaps.com/FMatp9WKnw 
   2. LAYOUT CONSIDERATIONS
- 
+    Top Header with all characteristics of site
+    Front page will Show Picture of Saitama(Main Character) with short overview on story
+    Pages with characters will have picture of character with description and ranking(if applicable)
   3. TYPOGRAPHY
- 
+      Things are to be sectioned off in different areas of the site with major headers of importance with a big text size range of 50-75 and words aren't too compact. 
   4. COLORS
- 
+    i. Dark Lava 443730
+    ii. Misty Rose: FFE6E8
+    iii. Champagne Pink: FFE504
+    iv. Pale Silver: DDC8C4
+    v. Black Coffee: 352D39
   5. FUNCTIONALITY
- 
+     Section for users to post reviews on the series and critique
   6. TARGET AUDIENCE
-    Age group is 16 to 30
+    Age group is 16 to 30 that are fans of the superhero genre and/or fans of anime and manga
+ 
  MOCKUP DESIGNS
  
   Mockup design 1
