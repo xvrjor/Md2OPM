@@ -91,21 +91,37 @@ WEBSITE CONTENT: TEXT AND IMAGES
 
  WEBSITE CONTENT: FUNDAMENTALS
   1. SITEMAP https://www.gloomaps.com/FMatp9WKnw 
+  
   2. LAYOUT CONSIDERATIONS
+    
     Top Header with all characteristics of site
+    
     Front page will Show Picture of Saitama(Main Character) with short overview on story
+    
     Pages with characters will have picture of character with description and ranking(if applicable)
+  
   3. TYPOGRAPHY
+      
       Things are to be sectioned off in different areas of the site with major headers of importance with a big text size range of 50-75 and words aren't too compact. 
+  
   4. COLORS
+    
     i. Dark Lava 443730
+    
     ii. Misty Rose: FFE6E8
+    
     iii. Champagne Pink: FFE504
+    
     iv. Pale Silver: DDC8C4
+    
     v. Black Coffee: 352D39
+  
   5. FUNCTIONALITY
+     
      Section for users to post reviews on the series and critique
+  
   6. TARGET AUDIENCE
+    
     Age group is 16 to 30 that are fans of the superhero genre and/or fans of anime and manga
  
  MOCKUP DESIGNS
