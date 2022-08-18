@@ -1,13 +1,22 @@
 # One Punch Man
 1. Key Characteristics
+  
   i. About(Covers short overview of story of OPM and website purpose)
+  
   ii. Heroes(Goes over majority of heroes in OPM with a description about them and their ranking)
+  
   iii. Villains (Goes over villains in the series with description and ranking)
+  
   iv. Other(Goes over brief overview of other characters important to the story and any additional relevant info)
+  
   v. Ranking System (Shows basic ranking system mostly in strength for heroes and villains; class ranking for heroes disaster level for villains)
+  
   vi. Story so far (Goes through course of events in the story; one section for manga and another for the anime)
+  
   vii. News and updates (Updated news on the series weekly)
+  
   viii. Reviews (User review system based on manga chapters rank 1-10)
+  
   ix. Sign in (Ability to sign in for review section and write brief descriptive review with a ranking)
   
  2. Similar Websites
