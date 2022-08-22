@@ -92,6 +92,9 @@ WEBSITE CONTENT: TEXT AND IMAGES
  WEBSITE CONTENT: FUNDAMENTALS
   1. SITEMAP https://www.gloomaps.com/FMatp9WKnw 
   
+  <img width="1609" alt="Screen Shot 2022-08-22 at 1 32 47 PM" src="https://user-images.githubusercontent.com/109974013/185983589-4e62b995-9d68-4aa7-9445-f4cfa75973cf.png">
+
+  
   2. LAYOUT CONSIDERATIONS
     
     Top Header with all characteristics of site
@@ -128,8 +131,12 @@ WEBSITE CONTENT: TEXT AND IMAGES
  
  Mockup design 1
  
- (https://www.figma.com/file/lVe89qJ80cvB1TIOsAVlGQ/OpmMckup1?node-id=0%3A1)  
+ <img width="1445" alt="Screen Shot 2022-08-22 at 1 29 10 PM" src="https://user-images.githubusercontent.com/109974013/185983131-ef07b181-abeb-474b-ad33-c48ff4ff12a8.png">
+
+
+<img width="965" alt="Screen Shot 2022-08-22 at 1 30 03 PM" src="https://user-images.githubusercontent.com/109974013/185983169-0d49b4d1-d911-4bc5-89f5-dc6978a5c121.png">
+
 
  Mockup design 2
 
-(https://www.figma.com/file/zZ5Fa5ayP40DiDuwScsD15/Mckup2Opm?node-id=0%3A1)
+<img width="1304" alt="Screen Shot 2022-08-22 at 1 31 28 PM" src="https://user-images.githubusercontent.com/109974013/185983357-077c0ac4-85c1-4d7a-af41-edbbb80bd645.png">
