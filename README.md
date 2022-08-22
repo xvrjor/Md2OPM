@@ -126,10 +126,10 @@ WEBSITE CONTENT: TEXT AND IMAGES
  
  MOCKUP DESIGNS
  
-  Mockup design 1
- [
-](https://www.figma.com/file/lVe89qJ80cvB1TIOsAVlGQ/OpmMckup1?node-id=0%3A1)  
+ Mockup design 1
+ 
+ (https://www.figma.com/file/lVe89qJ80cvB1TIOsAVlGQ/OpmMckup1?node-id=0%3A1)  
 
-Mockup design 2
+ Mockup design 2
 
 (https://www.figma.com/file/zZ5Fa5ayP40DiDuwScsD15/Mckup2Opm?node-id=0%3A1)
