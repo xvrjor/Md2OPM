@@ -140,3 +140,6 @@ WEBSITE CONTENT: TEXT AND IMAGES
  Mockup design 2
 
 <img width="1304" alt="Screen Shot 2022-08-22 at 1 31 28 PM" src="https://user-images.githubusercontent.com/109974013/185983357-077c0ac4-85c1-4d7a-af41-edbbb80bd645.png">
+
+
+<img width="1306" alt="Screen Shot 2022-08-23 at 9 42 07 AM" src="https://user-images.githubusercontent.com/109974013/186173794-61ef5a31-2016-43a0-84d6-fdc286874940.png">
